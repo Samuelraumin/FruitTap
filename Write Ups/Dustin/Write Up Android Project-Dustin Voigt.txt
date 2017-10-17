@@ -1,0 +1,7 @@
+﻿Dustin Voigt 
+Mr. Landfried 
+Computer Science 
+Period: 3 
+11 October 2017 
+Fruit Tap 
+        For our Android Project we created a more basic version of Fruit Ninja and called it Fruit Tap. One difficulty we encountered was having the fruit fall. Instead of the fruit starting at the top and falling down the fruit were actually starting at the top and were “falling” to the right. The way we were able to fix this was by setting the heading and it made sure that the fruit fall downward towards the bottom and not to the right. From doing so I learned how to coordinate points on a X and Y axis on a computer. Another opportunity we had was the system kept setting the sprites everywhere all over the screen. We were able to the fix that by adding math blocks to coordinate the fruit to stay on the X and Y axis only. I was able to learn from that because I didn’t know how to set coordinated. While coding the game I was able to complete, “when the fruit gets touched” and the “game clock timer” independently. These are some minor problems and achievements we fixed and learned from.

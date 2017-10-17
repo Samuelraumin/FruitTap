@@ -1,0 +1,7 @@
+﻿Dustin Voigt 
+Mr. Landfried 
+Computer Science and Software Engineering 
+Period: 3
+10/13/17 
+Video Write Up 
+In the video, the first screen to show is the logo. After the logo is finished being displayed the main screen shows and the player will have an option to click “Start” to play the game or “About The Coders” to learn a little information about us. When you click start an “Are You Ready” sign will show up and after that the fruit or bombs will begin to fall. When the user clicks on the fruit you gain “Fruit Points” which keeps track of your high score. When the bomb is accidentally touched it will result in a game over and you will have to restart. There are different sound effect that will happen from clicking the bomb or fruits. When you click on the fruit there is a sound called “pew” that will play and when the bomb is clicked an explosion sound will play. When you lose you will have to click Reset to be taken back to the main screen and there you can choose to start over.
